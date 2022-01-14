@@ -1,0 +1,27 @@
+body {
+
+    background-color: silver;
+}
+
+#head {
+    text-align-last: center;
+}
+
+.boşluk {
+
+    width: 65px;
+}
+
+#section {
+
+    width: 500px;
+
+    margin: auto;
+}
+
+fieldset {
+    border: 5px hidden black;
+    border-radius: 20px;
+    background-color: salmon;
+
+}
